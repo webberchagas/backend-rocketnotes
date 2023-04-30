@@ -9,7 +9,7 @@
     "migrate": "knex migrate:latest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Webber Chagas",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
